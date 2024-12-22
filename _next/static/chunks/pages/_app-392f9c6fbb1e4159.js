@@ -22903,19 +22903,6 @@ PERFORMANCE OF THIS SOFTWARE.
                       "hidden lg:flex items-center justify-center mr-2 gap-4",
                     children: [
 
-                      (0, W.jsx)(iP(), {
-                        className: "link",
-                        target: "_blank",
-                        href: "https://twitter.com/",
-                        rel: "noreferrer",
-                        "data-sentry-element": "Link",
-                        "data-sentry-source-file": "header-container.tsx",
-                        children: (0, W.jsx)(iK, {
-                          className: "w-5 h-5",
-                          "data-sentry-element": "TwitterLogoSvg",
-                          "data-sentry-source-file": "header-container.tsx",
-                        }),
-                      }),
                     ],
                   }),
                   (0, W.jsx)(iR, {
@@ -22985,14 +22972,7 @@ PERFORMANCE OF THIS SOFTWARE.
                         }),
                       ],
                     }),
-                    (0, W.jsxs)("div", {
-                      className: "flex w-auto ml-auto",
-                      children: [
-                        "Powered by Clober (v",
-                        "6e593cacbf5bc4c4ef4210062c719bd2a300bebe".slice(0, 7),
-                        ")",
-                      ],
-                    }),
+
                   ],
                 }),
                 (0, W.jsx)(i0, {
