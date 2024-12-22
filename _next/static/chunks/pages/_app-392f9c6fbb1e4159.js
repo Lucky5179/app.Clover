@@ -22960,18 +22960,7 @@ PERFORMANCE OF THIS SOFTWARE.
                   className:
                     "flex h-8 justify-between items-center px-4 text-xs text-gray-500 mb-1 bg-[#0b1933]",
                   children: [
-                    (0, W.jsxs)("div", {
-                      className: "flex items-center",
-                      children: [
-                        "Support:",
-                        " ",
-                        (0, W.jsx)("a", {
-                          href: "mailto:official@clober.io",
-                          className: "text-gray-500 hover:text-blue-500",
-                          children: "official@clober.io",
-                        }),
-                      ],
-                    }),
+
 
                   ],
                 }),
